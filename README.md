@@ -1,55 +1,72 @@
-# Cyclistic Bike-Share Analysis 🚲
+# 🚲 Cyclistic Bike-Share Analysis
 
-## Project Overview
-This project is part of the Google Data Analytics Capstone Case Study.
-The goal is to analyze bike-share usage data to understand how casual riders and annual members use Cyclistic bikes differently.
+**Google Data Analytics Capstone Case Study**
 
-## Business Task
-How do casual riders and annual members use Cyclistic bikes differently, and how can these insights help convert casual riders into annual members?
+---
 
-## Dataset
-- Source: Divvy / Cyclistic public bike-share data
-- Period analyzed: Q1 2020
-- Tool used for analysis: Google Sheets
+## 📌 Project Overview
+This project analyzes **Cyclistic bike-share data** to understand how **casual riders** and **annual members** use bikes differently, and how these insights can help convert casual riders into members.
 
-## Tools Used
-- Google Sheets
-  - Data cleaning
-  - Pivot tables
-  - Calculated fields
-  - Data visualization (charts)
+---
 
-## Data Cleaning & Preparation
-- Removed rows with missing or invalid ride length values
-- Converted ride length into time format
-- Created a new column for day of week
-- Ensured consistent formatting across all columns
+## 🎯 Business Question
+> How do casual riders and annual members use Cyclistic bikes differently?
 
-## Analysis & Key Findings
-- Casual riders have significantly longer average ride durations than members
-- Members tend to take shorter, more frequent rides, suggesting commuting behavior
-- Casual riders are more active on weekends, while members ride consistently throughout the week
+---
 
-## Visualizations
-Key visualizations include:
-- Average ride length by user type
-- Average ride length by day of week
-- Comparison of casual vs member riding patterns
+## 📊 Dataset
+- **Source:** Divvy / Cyclistic public bike-share data  
+- **Period:** Q1 2020  
+- **Size:** ~X rides  
+- **Tool Used:** Google Sheets  
 
-### Average Ride Length by User Type
-[View chart](AVERAGE%20of%20ride_length%20vs.%20member_casual.pdf)
+---
 
-### Number of Rides by Day
-[View chart](COUNT%20of%20ride_id%20vs.%20day.pdf)
+## 🛠 Tools Used
+- Google Sheets (cleaning, pivot tables, charts)
+- GitHub (project documentation & portfolio)
 
-### Casual vs Member Comparison
-[View chart](casual%20and%20member.pdf)- 
+---
 
-## Recommendations
-- Promote weekend and leisure-based membership plans
-- Offer trial or short-term memberships for casual riders
-- Target marketing campaigns around peak casual usage days
+## 🔍 Key Insights
+- ⏱ **Casual riders have significantly longer ride durations** than members.
+- 🚲 **Members take shorter, more frequent rides**, indicating commuting behavior.
+- 📅 **Casual usage peaks on weekends**, while members ride consistently during weekdays.
 
-## Conclusion
-Casual riders primarily use Cyclistic bikes for leisure, while members use them for routine transportation.
-Understanding these patterns can help Cyclistic design targeted strategies to increase membership conversions.
+---
+
+## 📈 Visualizations
+
+### 1️⃣ Average Ride Length by User Type
+👉 [View Chart](AVERAGE%20of%20ride_length%20vs.%20member_casual.pdf)
+
+---
+
+### 2️⃣ Number of Rides by Day
+👉 [View Chart](COUNT%20of%20ride_id%20vs.%20day.pdf)
+
+---
+
+### 3️⃣ Casual vs Member Comparison
+👉 [View Chart](casual%20and%20member.pdf)
+
+---
+
+## 💡 Recommendations
+- 🎯 Promote **weekend & leisure-focused membership plans**
+- 🎁 Offer **short-term or trial memberships** for casual riders
+- 📣 Target marketing campaigns on **high casual-usage days**
+
+---
+
+## ✅ Conclusion
+Casual riders use Cyclistic bikes primarily for leisure, while members use them for daily transportation.  
+Strategic pricing, promotions, and targeted campaigns can help convert casual riders into long-term members.
+
+---
+
+## 👤 Author
+**Mohammed Masoud**  
+Aspiring Data Analyst | Google Data Analytics Certificate  
+📍 New York, USA  
+🔗 GitHub Portfolio: https://github.com/Mohammed3M
