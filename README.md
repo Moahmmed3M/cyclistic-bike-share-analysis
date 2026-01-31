@@ -34,7 +34,14 @@ How do casual riders and annual members use Cyclistic bikes differently, and how
 Key visualizations include:
 - Average ride length by user type
 - Average ride length by day of week
-- Comparison of casual vs member riding patterns
+- Comparison of casual vs member riding patterns### Average Ride Length by User Type
+[View chart](AVERAGE%20of%20ride_length%20vs.%20member_casual.pdf)
+
+### Number of Rides by Day
+[View chart](COUNT%20of%20ride_id%20vs.%20day.pdf)
+
+### Casual vs Member Comparison
+[View chart](casual%20and%20member.pdf)- 
 
 ## Recommendations
 - Promote weekend and leisure-based membership plans
